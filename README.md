@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/BWWpulxG8rIAAAAM/cat-laptop.gif" />
 </p>
 
-<h3 align="center"><span style="color:rgba(236, 9, 1, 0.92);">Olá, Bem-vindo(a)</span> sou um desenvolvedor apaixonado por criar soluções inovadoras.</h3>
+<h3><span style="color:rgba(236, 9, 1, 0.92);">Olá, Bem-vindo(a)</span> sou um desenvolvedor apaixonado por criar soluções inovadoras.</h3>
 <h3 align="left">Um pouco mais sobre mim:</h3>
 <p align="left">
   Sou um desenvolvedor de software dedicado a construir aplicações escaláveis e amigáveis. Minha expertise está em Java e MySQL, e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Quando não estou programando, você pode me encontrar explorando blogs de tecnologia, contribuindo para projetos open-source.
