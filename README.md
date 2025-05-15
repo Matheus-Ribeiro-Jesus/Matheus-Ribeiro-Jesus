@@ -1,4 +1,4 @@
-![cat](https://i.pinimg.com/originals/45/77/85/4577853f98ae7f2320f091dc999c30ac.gif)
+![cat](https://media.tenor.com/BWWpulxG8rIAAAAM/cat-laptop.gif)
 
 <h3 align="center"><span style="color:rgba(236, 9, 1, 0.92);">Olá, Bem-vindo(a)</span> sou um desenvolvedor apaixonado por criar soluções inovadoras.</h3>
 <h3 align="left">Um pouco mais sobre mim:</h3>
