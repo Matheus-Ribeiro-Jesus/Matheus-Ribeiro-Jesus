@@ -1,4 +1,3 @@
-![cat]()
 <p align="center">
   <img src="https://media.tenor.com/BWWpulxG8rIAAAAM/cat-laptop.gif" />
 </p>
