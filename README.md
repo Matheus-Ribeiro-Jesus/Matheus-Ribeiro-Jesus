@@ -1,4 +1,7 @@
-![cat](https://media.tenor.com/BWWpulxG8rIAAAAM/cat-laptop.gif)
+![cat]()
+<p align="center">
+  <img src="https://media.tenor.com/BWWpulxG8rIAAAAM/cat-laptop.gif" />
+</p>
 
 <h3 align="center"><span style="color:rgba(236, 9, 1, 0.92);">Olá, Bem-vindo(a)</span> sou um desenvolvedor apaixonado por criar soluções inovadoras.</h3>
 <h3 align="left">Um pouco mais sobre mim:</h3>
